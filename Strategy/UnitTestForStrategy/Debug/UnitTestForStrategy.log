@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTestForStrategy.cpp
+d:\patternstrategynew\strategy\strategy\strategy.cpp(73): warning C4150: удаление указателя на неполный тип "Print"; деструктор не вызван
+  d:\patternstrategynew\strategy\strategy\strategy.cpp(5): note:  см. объявление "Print"
+     Создается библиотека D:\PatternStrategyNew\Strategy\Debug\UnitTestForStrategy.lib и объект D:\PatternStrategyNew\Strategy\Debug\UnitTestForStrategy.exp
+  UnitTestForStrategy.vcxproj -> D:\PatternStrategyNew\Strategy\Debug\UnitTestForStrategy.dll

@@ -1,0 +1,4 @@
+﻿  Strategy.cpp
+d:\patternstrategynew\strategy\strategy\strategy.cpp(73): warning C4150: удаление указателя на неполный тип "Print"; деструктор не вызван
+  d:\patternstrategynew\strategy\strategy\strategy.cpp(5): note:  см. объявление "Print"
+  Strategy.vcxproj -> D:\PatternStrategyNew\Strategy\Debug\Strategy.exe
