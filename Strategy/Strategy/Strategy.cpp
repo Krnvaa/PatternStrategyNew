@@ -8,12 +8,9 @@ class ArrayContext {
 
 private:
 	Print* strategy_;
-	int lenght_;
-	int* arr;
 
 public:
 	//конструктор по умолчанию
-	ArrayContext() {
 		strategy_ = nullptr;
 		lenght_ = 0;
 		arr = nullptr;
